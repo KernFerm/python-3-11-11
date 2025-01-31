@@ -28,7 +28,7 @@ This script automates the installation of **Python 3.11.11** on a Windows system
 - **No administrator privileges required**
 
 ## 📜 License
-This script is licensed under the **MIT License**. This script is provided **as-is** without warranty. Use at your own risk.
+This script is licensed under the **MIT License**.
 
 ---
 
